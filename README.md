@@ -21,6 +21,7 @@ Cf. https://info.atcoder.jp/overview/contest/algorithm
 
 |   |  |
 |--| --|
+| [TDPC](https://atcoder.jp/contests/tdpc) | 有志コンテスト | 
 | [EDPC](https://atcoder.jp/contests/dp) | 有志コンテスト | 
 | [Next DP Contest](https://atcoder.jp/contests/ndpc2026) | 有志コンテスト | 
 
